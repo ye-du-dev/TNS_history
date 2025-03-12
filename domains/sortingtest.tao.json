@@ -1,0 +1,14 @@
+{
+  "renewal_history": [],
+  "previous_owners": [],
+  "expiration_date": "2026-03-10 13:05:37",
+  "owner": "5FZ5H4VCwaAZsLUeuZZEmCPsoJ5MCo7WP4Dr642YTfmGz5DM",
+  "registration_date": "2025-03-10 13:05:37",
+  "transfer_history": [],
+  "id": "12c9abc6-22ae-4c21-9654-8f57a5288d4b",
+  "name": "sortingtest",
+  "tx_hash": "0xb5560b97e0bcecdb89e62d69e46123101b56eec5db97e7f8b510f8e3cf95153c",
+  "extrinsic_id": "4067436 - 0002",
+  "domain": "sortingtest.tao",
+  "block_hash": "0xd1b0fe9bf9db9a49f036e59498ccafea0e3090755111bbe0dd7c6733597e1012"
+}
