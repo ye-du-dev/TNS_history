@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "gessss.tao",
+    "domain_name": "gessss",
+    "expire_date": "2026-03-14 16:58:01",
+    "created_at": "2025-03-14 16:58:01",
+    "wallet_address": "5FZ5H4VCwaAZsLUeuZZEmCPsoJ5MCo7WP4Dr642YTfmGz5DM",
+    "discount": true,
+    "discount_in_tao": 0.06,
+    "price_estimated_in_tao": 0.04,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "gessss.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xd5b4c8e0ada90c1d24d3e663669ce8f796089369e91c03e9c3743fbf4361f241",
+    "previous_cid": null,
+    "wallet_address": "5FZ5H4VCwaAZsLUeuZZEmCPsoJ5MCo7WP4Dr642YTfmGz5DM",
+    "order_id": "aa92f701-1aff-4535-87b0-e7a3534d47f3",
+    "event_date": "2025-03-14 16:58:01",
+    "expire_date": "2026-03-14 16:58:01"
+  }
+}
