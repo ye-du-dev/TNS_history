@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "asfsafasfasfa.tao",
+    "domain_name": "asfsafasfasfa",
+    "expire_date": "2026-03-14 16:58:23",
+    "created_at": "2025-03-14 16:58:23",
+    "wallet_address": "5FZ5H4VCwaAZsLUeuZZEmCPsoJ5MCo7WP4Dr642YTfmGz5DM",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "asfsafasfasfa.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x208c2fdd97689fac0ca19a5debd7dadcdcdb08b86e15ac8ffd0e5dff5f454d6b",
+    "previous_cid": null,
+    "wallet_address": "5FZ5H4VCwaAZsLUeuZZEmCPsoJ5MCo7WP4Dr642YTfmGz5DM",
+    "order_id": "6ac321ee-068b-4d33-9cb8-b8ab574d00fb",
+    "event_date": "2025-03-14 16:58:23",
+    "expire_date": "2026-03-14 16:58:23"
+  }
+}
