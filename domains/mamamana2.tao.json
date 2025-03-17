@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "mamamana2.tao",
+    "domain_name": "mamamana2",
+    "expire_date": "2026-03-07 15:48:09",
+    "created_at": "2025-03-07 15:48:09",
+    "wallet_address": "5FZ5H4VCwaAZsLUeuZZEmCPsoJ5MCo7WP4Dr642YTfmGz5DM",
+    "discount": true,
+    "discount_in_tao": 0.15,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "mamamana2.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x17f7b28899ab3e77e99daf6615374624b2462cb2ecd599fb3958e02eb968ea0a",
+    "previous_cid": null,
+    "wallet_address": "5FZ5H4VCwaAZsLUeuZZEmCPsoJ5MCo7WP4Dr642YTfmGz5DM",
+    "order_id": "22af889b-1799-4846-a3f4-74cc7f468e1e",
+    "event_date": "2025-03-07 15:48:09",
+    "expire_date": "2026-03-07 15:48:09"
+  }
+}
