@@ -14,7 +14,7 @@
     "domain": "featureretest.tao",
     "event_type": "buy_domain",
     "tx_hash": "0x35c4efbda2bf4aa5736f83f8f6e0a184457c8538d764e55090131b541139568a",
-    "previous_cid": null,
+    "previous_cid": "QmQErsdEu5Bi71KPm8kHySW3u8arcbv4wDVDEY5QVBbtTm",
     "wallet_address": "5FZ5H4VCwaAZsLUeuZZEmCPsoJ5MCo7WP4Dr642YTfmGz5DM",
     "order_id": "215bff46-a0fb-437b-968e-c9a6cc4600bd",
     "event_date": "2025-03-17 19:41:08",
