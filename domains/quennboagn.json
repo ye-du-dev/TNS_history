@@ -1,0 +1,22 @@
+{
+  "domain_info": {
+    "domain": "quennboagn.tao",
+    "domain_name": "quennboagn",
+    "expire_date": "2026-04-06 22:04:23",
+    "created_at": "2025-04-06 22:04:23",
+    "wallet_address": "0xabcdef1234567890abcdef1234567890abcdef12",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "quennboagn",
+    "event_type": "transfer_domain",
+    "tx_hash": "0x1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef",
+    "previous_cid": "test",
+    "wallet_address": "0xabcdef1234567890abcdef1234567890abcdef12",
+    "order_id": "cdad14e5-9680-4363-b255-376ed2492a7c",
+    "event_date": "2023-06-15T14:30:00Z"
+  }
+}
