@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "123123.tao",
+    "domain_name": "123123",
+    "expire_date": "2026-04-24 22:57:40",
+    "created_at": "2025-04-24 22:57:40",
+    "wallet_address": "5FZ5H4VCwaAZsLUeuZZEmCPsoJ5MCo7WP4Dr642YTfmGz5DM",
+    "discount": true,
+    "discount_in_tao": 0.06,
+    "price_estimated_in_tao": 0.04,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "123123.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xa545893f2c603198c1059df5f1da5f44591a16971d7c382f1739aceb4688e4df",
+    "previous_cid": null,
+    "wallet_address": "5FZ5H4VCwaAZsLUeuZZEmCPsoJ5MCo7WP4Dr642YTfmGz5DM",
+    "order_id": "67aa6976-32c1-49ed-b8ed-3c484493ff99",
+    "event_date": "2025-04-24 22:57:40",
+    "expire_date": "2026-04-24 22:57:40"
+  }
+}
