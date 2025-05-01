@@ -4,7 +4,7 @@
     "domain_name": "dedee",
     "expire_date": "2026-02-28 16:25:06",
     "created_at": "2025-02-28 16:25:06",
-    "wallet_address": "5CzJJR1gKQc6vr498BdkkTyzm1uYhGcTvuzx1uMKLuysskP1",
+    "wallet_address": "5DbwpprNkzXLPWxk8XkUAXSBTdkT5PMxi5FCKnr4Z2GsXUzJ",
     "discount": true,
     "discount_in_tao": 0.15,
     "price_estimated_in_tao": 0.1,
@@ -13,9 +13,9 @@
   "latest_event": {
     "domain": "dedee.tao",
     "event_type": "transfer_domain",
-    "wallet_address": "5CzJJR1gKQc6vr498BdkkTyzm1uYhGcTvuzx1uMKLuysskP1",
-    "previous_cid": "QmbFrYvG25dYLDu1A4HhDRFX8KeaxrvP3mHSC7bY5QthEs",
+    "wallet_address": "5DbwpprNkzXLPWxk8XkUAXSBTdkT5PMxi5FCKnr4Z2GsXUzJ",
+    "previous_cid": "Qmc8msb6LfJmx8c5Fp1UCphbmqxeHQhVk3eoNmDD5bhWcX",
     "order_id": "9135476f-038f-4a50-9d7c-8e9e30625f8b",
-    "event_date": "2025-05-01T12:12:18.816Z"
+    "event_date": "2025-05-01T12:25:54.169Z"
   }
 }
