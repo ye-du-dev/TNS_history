@@ -1,13 +1,21 @@
 {
-  "renewal_history": [],
-  "previous_owners": [],
-  "expiration_date": "2026-02-28 16:25:06",
-  "owner": "5GViC9219968y6n1vKwuRhSDjVdEmPMDGg5ksXTmtRs2oQGi",
-  "registration_date": "2025-02-28 16:25:06",
-  "transfer_history": [],
-  "id": "9135476f-038f-4a50-9d7c-8e9e30625f8b",
-  "name": "dedee",
-  "tx_hash": "0x1f8d0bf0acfd927f8d1b0eb0947a10eda32130ea608060d5637b3e7e9ac14ca5",
-  "domain": "dedee.tao",
-  "block_hash": "0x5f3f2ff9ad2002017489b880aa8b0cd7706f8359a3e8d5965b7a3e7264be7a37"
+  "domain_info": {
+    "domain": "dedee.tao",
+    "domain_name": "dedee",
+    "expire_date": "2026-02-28 16:25:06",
+    "created_at": "2025-02-28 16:25:06",
+    "wallet_address": "5CzJJR1gKQc6vr498BdkkTyzm1uYhGcTvuzx1uMKLuysskP1",
+    "discount": true,
+    "discount_in_tao": 0.15,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "dedee.tao",
+    "event_type": "transfer_domain",
+    "wallet_address": "5CzJJR1gKQc6vr498BdkkTyzm1uYhGcTvuzx1uMKLuysskP1",
+    "previous_cid": "QmbFrYvG25dYLDu1A4HhDRFX8KeaxrvP3mHSC7bY5QthEs",
+    "order_id": "9135476f-038f-4a50-9d7c-8e9e30625f8b",
+    "event_date": "2025-05-01T12:12:18.816Z"
+  }
 }
