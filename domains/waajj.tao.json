@@ -4,7 +4,7 @@
     "domain_name": "waajj",
     "expire_date": "2026-02-28 16:13:52",
     "created_at": "2025-02-28 16:13:52",
-    "wallet_address": "5CzJJR1gKQc6vr498BdkkTyzm1uYhGcTvuzx1uMKLuysskP1",
+    "wallet_address": "5GViC9219968y6n1vKwuRhSDjVdEmPMDGg5ksXTmtRs2oQGi",
     "discount": true,
     "discount_in_tao": 0.15,
     "price_estimated_in_tao": 0.1,
@@ -13,10 +13,10 @@
   "latest_event": {
     "domain": "waajj.tao",
     "event_type": "transfer_domain",
-    "wallet_address": "5CzJJR1gKQc6vr498BdkkTyzm1uYhGcTvuzx1uMKLuysskP1",
-    "previous_cid": "QmbveG1LEy4BwskvMuCMqwGGNZJ16CFTrzV7c8Tnn1BX82",
+    "wallet_address": "5GViC9219968y6n1vKwuRhSDjVdEmPMDGg5ksXTmtRs2oQGi",
+    "previous_cid": "QmWVhuzfHgpqdJicxDfat4ytfTBAZ9RujrQUpB7EKk8mSe",
     "order_id": "169adf93-7b03-44c9-97f1-7137df53f907",
-    "event_date": "2025-05-02T10:52:29.801Z",
-    "previous_wallet_address": "5GViC9219968y6n1vKwuRhSDjVdEmPMDGg5ksXTmtRs2oQGi"
+    "event_date": "2025-05-02T10:52:56.258Z",
+    "previous_wallet_address": "5CzJJR1gKQc6vr498BdkkTyzm1uYhGcTvuzx1uMKLuysskP1"
   }
 }
