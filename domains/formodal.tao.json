@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "formodal.tao",
+    "domain_name": "formodal",
+    "expire_date": "2026-05-06 14:27:41",
+    "created_at": "2025-05-06 14:27:41",
+    "wallet_address": "5DbwpprNkzXLPWxk8XkUAXSBTdkT5PMxi5FCKnr4Z2GsXUzJ",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "formodal.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x818d730b3ba2743b295b4a90c316f1116c3e7af65d77d306bf214244a4f0005a",
+    "previous_cid": null,
+    "wallet_address": "5DbwpprNkzXLPWxk8XkUAXSBTdkT5PMxi5FCKnr4Z2GsXUzJ",
+    "order_id": "2e6813c5-7192-4635-95de-90e340929004",
+    "event_date": "2025-05-06 14:27:41",
+    "expire_date": "2026-05-06 14:27:41"
+  }
+}
