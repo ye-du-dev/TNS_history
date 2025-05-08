@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "confirmation.tao",
+    "domain_name": "confirmation",
+    "expire_date": "2026-05-08 21:12:37",
+    "created_at": "2025-05-08 21:12:37",
+    "wallet_address": "5DbwpprNkzXLPWxk8XkUAXSBTdkT5PMxi5FCKnr4Z2GsXUzJ",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "confirmation.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x2fd78904484037a935590afe65e3b1f75cb695e411414e529c47ede29e043261",
+    "previous_cid": null,
+    "wallet_address": "5DbwpprNkzXLPWxk8XkUAXSBTdkT5PMxi5FCKnr4Z2GsXUzJ",
+    "order_id": "ed51b09e-7ace-4491-aa48-8ed9027a5fcc",
+    "event_date": "2025-05-08 21:12:37",
+    "expire_date": "2026-05-08 21:12:37"
+  }
+}
