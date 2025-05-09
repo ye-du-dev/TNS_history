@@ -14,11 +14,11 @@
     "domain": "history.tao",
     "event_type": "buy_marketplace",
     "wallet_address": "cb412b60-a93e-473e-b7ac-061b41a669f4",
-    "previous_cid": "QmSBdf1xPFh9LE5tcz2oXGJGVgzUfR9FdzxbvRkJGi3Qja",
+    "previous_cid": "QmXxfbnvM2xwAHpr9TP4Cwd1ZctuNUjzAFJMvV5CNaLqYh",
     "order_id": "e41a9548-bad6-4cba-ad56-7ce500b77338",
     "price": 0.1,
     "extrinsic_id": "4490034 - 0003",
-    "event_date": "2025-05-09T11:52:35.250Z",
-    "previous_wallet_address": "5CzJJR1gKQc6vr498BdkkTyzm1uYhGcTvuzx1uMKLuysskP1"
+    "event_date": "2025-05-09T12:11:18.130Z",
+    "previous_wallet_address": "cb412b60-a93e-473e-b7ac-061b41a669f4"
   }
 }
