@@ -4,7 +4,7 @@
     "domain_name": "history",
     "expire_date": "2026-05-02 11:01:05",
     "created_at": "2025-05-02 11:01:05",
-    "wallet_address": "cb412b60-a93e-473e-b7ac-061b41a669f4",
+    "wallet_address": "5DbwpprNkzXLPWxk8XkUAXSBTdkT5PMxi5FCKnr4Z2GsXUzJ",
     "discount": true,
     "discount_in_tao": 0,
     "price_estimated_in_tao": 0.1,
@@ -13,12 +13,12 @@
   "latest_event": {
     "domain": "history.tao",
     "event_type": "buy_marketplace",
-    "wallet_address": "cb412b60-a93e-473e-b7ac-061b41a669f4",
-    "previous_cid": "QmXxfbnvM2xwAHpr9TP4Cwd1ZctuNUjzAFJMvV5CNaLqYh",
+    "wallet_address": "5DbwpprNkzXLPWxk8XkUAXSBTdkT5PMxi5FCKnr4Z2GsXUzJ",
+    "previous_cid": "QmRWnJbrXG6WTqgX72cadxw1SijkrReS2PLRak5LL316GT",
     "order_id": "e41a9548-bad6-4cba-ad56-7ce500b77338",
     "price": 0.1,
     "extrinsic_id": "4490034 - 0003",
-    "event_date": "2025-05-09T12:11:18.130Z",
-    "previous_wallet_address": "cb412b60-a93e-473e-b7ac-061b41a669f4"
+    "event_date": "2025-05-09T12:16:20.710Z",
+    "previous_wallet_address": "5FZ5H4VCwaAZsLUeuZZEmCPsoJ5MCo7WP4Dr642YTfmGz5DM"
   }
 }
