@@ -1,13 +1,24 @@
 {
-  "renewal_history": [],
-  "previous_owners": [],
-  "expiration_date": "2026-02-24 20:54:44",
-  "owner": "5DbwpprNkzXLPWxk8XkUAXSBTdkT5PMxi5FCKnr4Z2GsXUzJ",
-  "registration_date": "2025-02-24 20:54:44",
-  "transfer_history": [],
-  "id": "5178701c-e47b-43fa-9bef-1b7c351e2c23",
-  "name": "testing5",
-  "tx_hash": "0x41bf601fa6ac1dac0bdc63b1cd105b1082e34cd0c5b9051005126f21991f0b89",
-  "domain": "testing5.tao",
-  "block_hash": "0x419b50158934eac877c8a4784050049c6d094afac692a25682fa12a0036ce478"
+  "domain_info": {
+    "domain": "testing5.tao",
+    "domain_name": "testing5",
+    "expire_date": "2026-02-24 20:54:44",
+    "created_at": "2025-02-24 20:54:44",
+    "wallet_address": "5GViC9219968y6n1vKwuRhSDjVdEmPMDGg5ksXTmtRs2oQGi",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "testing5.tao",
+    "event_type": "buy_marketplace",
+    "wallet_address": "5GViC9219968y6n1vKwuRhSDjVdEmPMDGg5ksXTmtRs2oQGi",
+    "previous_cid": "QmTLxR9tavpkTB1bHhyTrY5QbYb75v7B8anBq3vQwuXfAP",
+    "order_id": "5178701c-e47b-43fa-9bef-1b7c351e2c23",
+    "price": 0.1,
+    "extrinsic_id": "4495325 - 0001",
+    "event_date": "2025-05-09T14:51:29.028Z",
+    "previous_wallet_address": "5DbwpprNkzXLPWxk8XkUAXSBTdkT5PMxi5FCKnr4Z2GsXUzJ"
+  }
 }
