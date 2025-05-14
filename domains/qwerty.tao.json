@@ -1,0 +1,24 @@
+{
+  "domain_info": {
+    "domain": "qwerty.tao",
+    "domain_name": "qwerty",
+    "expire_date": "2026-05-14 13:13:20",
+    "created_at": "2025-05-14 13:13:20",
+    "wallet_address": "5DbwpprNkzXLPWxk8XkUAXSBTdkT5PMxi5FCKnr4Z2GsXUzJ",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "qwerty.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x27193deadd1c54f95c68608626d1b92a6dcef37a8c7b2cd98ec7e4461e88a457",
+    "previous_cid": null,
+    "wallet_address": "5DbwpprNkzXLPWxk8XkUAXSBTdkT5PMxi5FCKnr4Z2GsXUzJ",
+    "order_id": "a3d7480a-e4e8-4231-8fa4-442484fd8978",
+    "event_date": "2025-05-14 13:13:20",
+    "expire_date": "2026-05-14 13:13:20",
+    "ipfs_cid": "QmPZBY4drwN4GXmthJEzhBfqgabj8PveyWaZBm3t6C32dj"
+  }
+}
