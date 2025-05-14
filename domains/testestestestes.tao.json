@@ -1,0 +1,24 @@
+{
+  "domain_info": {
+    "domain": "testestestestes.tao",
+    "domain_name": "testestestestes",
+    "expire_date": "2026-05-14 12:43:14",
+    "created_at": "2025-05-14 12:43:14",
+    "wallet_address": "5GxQNskxQTU263arMnW62WzgQqtgYz2xSondDNKu1AmvroLu",
+    "discount": true,
+    "discount_in_tao": 0.06,
+    "price_estimated_in_tao": 0.04,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "testestestestes.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x9bb576dd8a0eb1e403c7fd7f0caf0a8361035251966dfecbce11188375695947",
+    "previous_cid": null,
+    "wallet_address": "5GxQNskxQTU263arMnW62WzgQqtgYz2xSondDNKu1AmvroLu",
+    "order_id": "57912179-ea07-42ce-8587-b7930f17b57c",
+    "event_date": "2025-05-14 12:43:14",
+    "expire_date": "2026-05-14 12:43:14",
+    "ipfs_cid": "QmUWsjriije67HHQLQJ3hzgh2kaeQkkDs6sQRupsYd84ZV"
+  }
+}
