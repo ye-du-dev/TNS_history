@@ -12,12 +12,14 @@
   },
   "latest_event": {
     "domain": "victory.tao",
-    "event_type": "transfer_domain",
+    "event_type": "buy_marketplace",
     "wallet_address": "5GxQNskxQTU263arMnW62WzgQqtgYz2xSondDNKu1AmvroLu",
-    "previous_cid": "QmNobWhguS73MoF8hwD8Z3jFqwvp8SNR6JGAiyQpHZjToE",
+    "previous_cid": "QmX1KSt8oKTo2WpTUQsYyBBzbwLF7w7yQC72cEdC9c5Ngk",
     "order_id": "6ac4964c-45c4-4eb4-981a-c8e9e8b40a46",
-    "event_date": "2025-05-15T10:22:08.422Z",
-    "previous_wallet_address": "5CGVo5btyfhYSucSsNVH5TuYuzDPwR9nZZSF1jGnegyXf7zL",
-    "ipfs_cid": "QmX1KSt8oKTo2WpTUQsYyBBzbwLF7w7yQC72cEdC9c5Ngk"
+    "price": 0.01,
+    "extrinsic_id": "4537275 - 0001",
+    "event_date": "2025-05-15T10:41:49.878Z",
+    "previous_wallet_address": "5GxQNskxQTU263arMnW62WzgQqtgYz2xSondDNKu1AmvroLu",
+    "ipfs_cid": "QmZJymp8F66sQGrTCiyJC5vEP2ZVzm63KzEfvwngrQxrU4"
   }
 }
