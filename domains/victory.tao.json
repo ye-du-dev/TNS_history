@@ -4,7 +4,7 @@
     "domain_name": "victory",
     "expire_date": "2026-05-15 09:18:19",
     "created_at": "2025-05-15 09:18:19",
-    "wallet_address": "5GxQNskxQTU263arMnW62WzgQqtgYz2xSondDNKu1AmvroLu",
+    "wallet_address": "5CGVo5btyfhYSucSsNVH5TuYuzDPwR9nZZSF1jGnegyXf7zL",
     "discount": true,
     "discount_in_tao": 0.06,
     "price_estimated_in_tao": 0.04,
@@ -12,14 +12,14 @@
   },
   "latest_event": {
     "domain": "victory.tao",
-    "event_type": "buy_domain",
-    "price": 0.04,
-    "tx_hash": "0x3aab18a16b7ca2f9eec3971df82223c836c42412fc1ad19c2d4560fd1bcb6a7b",
-    "previous_cid": null,
-    "wallet_address": "5GxQNskxQTU263arMnW62WzgQqtgYz2xSondDNKu1AmvroLu",
+    "event_type": "buy_marketplace",
+    "wallet_address": "5CGVo5btyfhYSucSsNVH5TuYuzDPwR9nZZSF1jGnegyXf7zL",
+    "previous_cid": "QmPHdTW7MtKbL2Ykm7xS3czVHjQqz2YNnQcK6tXK3sdm3e",
     "order_id": "6ac4964c-45c4-4eb4-981a-c8e9e8b40a46",
-    "event_date": "2025-05-15 09:18:19",
-    "expire_date": "2026-05-15 09:18:19",
-    "ipfs_cid": "QmPHdTW7MtKbL2Ykm7xS3czVHjQqz2YNnQcK6tXK3sdm3e"
+    "price": 0.02,
+    "extrinsic_id": "4536981 - 0002",
+    "event_date": "2025-05-15T09:42:48.252Z",
+    "previous_wallet_address": "5GxQNskxQTU263arMnW62WzgQqtgYz2xSondDNKu1AmvroLu",
+    "ipfs_cid": "QmdLbxjW86jTeoAzM6BEzhcrwN4PfGifn5btB6wZ3iAkav"
   }
 }
