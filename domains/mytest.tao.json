@@ -4,7 +4,7 @@
     "domain_name": "mytest",
     "expire_date": "2026-04-21 09:54:32",
     "created_at": "2025-04-21 09:54:32",
-    "wallet_address": "5CGVo5btyfhYSucSsNVH5TuYuzDPwR9nZZSF1jGnegyXf7zL",
+    "wallet_address": "5GxQNskxQTU263arMnW62WzgQqtgYz2xSondDNKu1AmvroLu",
     "discount": true,
     "discount_in_tao": 0,
     "price_estimated_in_tao": 0.1,
@@ -12,12 +12,14 @@
   },
   "latest_event": {
     "domain": "mytest.tao",
-    "event_type": "transfer_domain",
-    "wallet_address": "5CGVo5btyfhYSucSsNVH5TuYuzDPwR9nZZSF1jGnegyXf7zL",
-    "previous_cid": "QmNZJvu86W6YtQzwKZWaWrjnneuhA8Aq17gWkc39cpdxp5",
+    "event_type": "buy_marketplace",
+    "wallet_address": "5GxQNskxQTU263arMnW62WzgQqtgYz2xSondDNKu1AmvroLu",
+    "previous_cid": "QmTZwqWCia6KJby9G4tYxfAFvPQYkpEB54RTcuW8Po3f2r",
     "order_id": "1dc6ad45-6a7b-4bca-825e-2ff15be97b8e",
-    "event_date": "2025-05-14T09:41:20.858Z",
-    "previous_wallet_address": "5GxQNskxQTU263arMnW62WzgQqtgYz2xSondDNKu1AmvroLu",
-    "ipfs_cid": "QmTZwqWCia6KJby9G4tYxfAFvPQYkpEB54RTcuW8Po3f2r"
+    "price": 0.01,
+    "extrinsic_id": "4573707 - 0003",
+    "event_date": "2025-05-20T12:08:13.859Z",
+    "previous_wallet_address": "5CGVo5btyfhYSucSsNVH5TuYuzDPwR9nZZSF1jGnegyXf7zL",
+    "ipfs_cid": "QmU6fyHgw28aX4joEwYHqrgeYJKnf8VchpNoUDhHxAt2SF"
   }
 }
