@@ -1,7 +1,25 @@
 {
-  "name": "example.tao",
-  "metadata": {
-    "description": "Example domain metadatadddddd",
-    "created": "2024-03-04T12:00:00Z"
+  "domain_info": {
+    "domain": "example.tao",
+    "domain_name": "example",
+    "expire_date": "2026-05-20 18:55:04",
+    "created_at": "2025-05-20 18:55:04",
+    "wallet_address": "5GxQNskxQTU263arMnW62WzgQqtgYz2xSondDNKu1AmvroLu",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "example.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0x3a7afb11aea438a2f52833f7281f6fd96a5c3ac793214045cee0edf181a8f8e2",
+    "previous_cid": null,
+    "wallet_address": "5GxQNskxQTU263arMnW62WzgQqtgYz2xSondDNKu1AmvroLu",
+    "order_id": "20619073-a62b-47ef-868e-ddecc27470c1",
+    "event_date": "2025-05-20 18:55:04",
+    "expire_date": "2026-05-20 18:55:04",
+    "ipfs_cid": "QmTY4shH1EHpKPcJMhtfie4KmtXyxp1iMLjgQMuvft93h5"
   }
 }
