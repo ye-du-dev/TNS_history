@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "safddawsasddassdcfa.tao",
+    "domain_name": "safddawsasddassdcfa",
+    "created_at": "2025-05-26 13:59:36",
+    "wallet_address": "5CGVo5btyfhYSucSsNVH5TuYuzDPwR9nZZSF1jGnegyXf7zL",
+    "discount": true,
+    "discount_in_tao": 0.06,
+    "price_estimated_in_tao": 0.04,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "safddawsasddassdcfa.tao",
+    "event_type": "buy_domain",
+    "price": 0.04,
+    "tx_hash": "0x2888226377b539d7d1d63410b6c6e9ad868497247a6703bcd5a8d24820e5b142",
+    "previous_cid": null,
+    "wallet_address": "5CGVo5btyfhYSucSsNVH5TuYuzDPwR9nZZSF1jGnegyXf7zL",
+    "order_id": "9da9a1cd-a9f6-4bb4-b0a3-968ac0752e27",
+    "event_date": "2025-05-26 13:59:36",
+    "ipfs_cid": "QmPbpxGt86yMUSGTwrMULsRMygR2LAq4KWo8vk2sHe6NBK"
+  }
+}
