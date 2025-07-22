@@ -11,13 +11,12 @@
   },
   "latest_event": {
     "domain": "fasfsafas.tao",
-    "event_type": "buy_domain",
-    "price": 0.04,
-    "tx_hash": "0x3d2af2c41846b5771086725916dc8ed7ccf7917abca00bc12deefeace7fd6c4b",
-    "previous_cid": null,
+    "event_type": "transfer_domain",
     "wallet_address": "5GxQNskxQTU263arMnW62WzgQqtgYz2xSondDNKu1AmvroLu",
+    "previous_cid": "QmUC3AhVcVDbNTgCiiGwZKyPb8LSVDPKkGeD1a7PKUcqZR",
     "order_id": "56ed690c-944f-4fa4-92fa-f10d8bafb1a0",
-    "event_date": "2025-07-22 11:46:39",
-    "ipfs_cid": "QmUC3AhVcVDbNTgCiiGwZKyPb8LSVDPKkGeD1a7PKUcqZR"
+    "event_date": "2025-07-22T11:49:05.339Z",
+    "previous_wallet_address": "5GxQNskxQTU263arMnW62WzgQqtgYz2xSondDNKu1AmvroLu",
+    "ipfs_cid": "QmPYMA5SkRQAFK83dHajN7MaWzRJQuCa6M6pbn5F2SYVVK"
   }
 }
