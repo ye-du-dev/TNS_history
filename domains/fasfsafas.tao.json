@@ -3,7 +3,7 @@
     "domain": "fasfsafas.tao",
     "domain_name": "fasfsafas",
     "created_at": "2025-07-22 11:46:39",
-    "wallet_address": "5FZ5H4VCwaAZsLUeuZZEmCPsoJ5MCo7WP4Dr642YTfmGz5DM",
+    "wallet_address": "5GxQNskxQTU263arMnW62WzgQqtgYz2xSondDNKu1AmvroLu",
     "discount": true,
     "discount_in_tao": 0.06,
     "price_estimated_in_tao": 0.04,
@@ -12,11 +12,11 @@
   "latest_event": {
     "domain": "fasfsafas.tao",
     "event_type": "transfer_domain",
-    "wallet_address": "5FZ5H4VCwaAZsLUeuZZEmCPsoJ5MCo7WP4Dr642YTfmGz5DM",
-    "previous_cid": "QmYma3WpPAx3qFBVdXjUEJ3DRwTEnQjZM2NMQbMCgHP8Zp",
+    "wallet_address": "5GxQNskxQTU263arMnW62WzgQqtgYz2xSondDNKu1AmvroLu",
+    "previous_cid": "QmNpFNrgzErT9EmdQFXA5GEQkTroYDWgfo1wWpPzSCwwsq",
     "order_id": "56ed690c-944f-4fa4-92fa-f10d8bafb1a0",
-    "event_date": "2025-07-22T11:50:05.877Z",
-    "previous_wallet_address": "5GxQNskxQTU263arMnW62WzgQqtgYz2xSondDNKu1AmvroLu",
-    "ipfs_cid": "QmNpFNrgzErT9EmdQFXA5GEQkTroYDWgfo1wWpPzSCwwsq"
+    "event_date": "2025-07-22T11:54:41.960Z",
+    "previous_wallet_address": "5FZ5H4VCwaAZsLUeuZZEmCPsoJ5MCo7WP4Dr642YTfmGz5DM",
+    "ipfs_cid": "QmVDt9zX4UUtxvdKqQJHzQZxCeoEEwbTuNiEGSkaEtRiSe"
   }
 }
