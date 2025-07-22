@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "testapi.tao",
+    "domain_name": "testapi",
+    "created_at": "2025-07-22 08:59:17",
+    "wallet_address": "5GxQNskxQTU263arMnW62WzgQqtgYz2xSondDNKu1AmvroLu",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "testapi.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0x57a827910fdfeaa1b7f9a9eea6e209526c65c0bf2b59da8e67938b6af5cc04cb",
+    "previous_cid": null,
+    "wallet_address": "5GxQNskxQTU263arMnW62WzgQqtgYz2xSondDNKu1AmvroLu",
+    "order_id": "8727d2e1-6856-41a6-a9a4-5f41abc809f8",
+    "event_date": "2025-07-22 08:59:17",
+    "ipfs_cid": "QmWh3c9nn88ZZvC8grMJ1K8dT4TapTuKr4QMFeWKSqxM9i"
+  }
+}
