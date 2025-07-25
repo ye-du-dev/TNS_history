@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "testbug.tao",
+    "domain_name": "testbug",
+    "created_at": "2025-07-25 12:09:23",
+    "wallet_address": "5FZ5H4VCwaAZsLUeuZZEmCPsoJ5MCo7WP4Dr642YTfmGz5DM",
+    "discount": true,
+    "discount_in_tao": 0.06,
+    "price_estimated_in_tao": 0.04,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "testbug.tao",
+    "event_type": "buy_domain",
+    "price": 0.04,
+    "tx_hash": "0x192ade5291f5531237fee912e48171f10aad78e9ee77a2545be9b37681267053",
+    "previous_cid": null,
+    "wallet_address": "5FZ5H4VCwaAZsLUeuZZEmCPsoJ5MCo7WP4Dr642YTfmGz5DM",
+    "order_id": "1898a641-bc94-4772-ad03-1591d232ae43",
+    "event_date": "2025-07-25 12:09:23",
+    "ipfs_cid": "QmcSqgLDymSc2L1kPDN6j7qFkVGJa8xGSj2VqXBahCvc6h"
+  }
+}
