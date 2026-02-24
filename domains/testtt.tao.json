@@ -12,12 +12,12 @@
   "latest_event": {
     "domain": "testtt.tao",
     "event_type": "buy_domain",
-    "price": 0.04,
     "tx_hash": "0x1001dc85faa18c16b7f3e40c0f25e7077584ca2247e14d172c30f3702713d436",
     "previous_cid": null,
     "wallet_address": "5GxQNskxQTU263arMnW62WzgQqtgYz2xSondDNKu1AmvroLu",
     "order_id": "59c47ee0-2b46-4c9e-8d74-a5c593f147fd",
     "event_date": "2026-02-24 09:45:35",
-    "ipfs_cid": "QmYxgn46gV6qSWgKp7zz4YHHnMCYGbS1xnfxMKKEDLvoSF"
+    "expire_date": "2027-02-24 09:45:35",
+    "ipfs_cid": "QmQ3ijSrTqnd5y5CjtGgLUQDqsBeTqTFWpoNrRctsmT9XY"
   }
 }
