@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "llllllllllllllllll.tao",
+    "domain_name": "llllllllllllllllll",
+    "created_at": "2026-02-25 21:49:52",
+    "wallet_address": "5GxQNskxQTU263arMnW62WzgQqtgYz2xSondDNKu1AmvroLu",
+    "discount": true,
+    "discount_in_tao": 1e-8,
+    "price_estimated_in_tao": 1e-8,
+    "cost_in_tao": 1e-8
+  },
+  "latest_event": {
+    "domain": "llllllllllllllllll.tao",
+    "event_type": "buy_domain",
+    "price": 1e-8,
+    "tx_hash": "0x19c25a18a8e821da302c502ed81152cb73d63d6cd65f5090aeafc8853ff60574",
+    "previous_cid": null,
+    "wallet_address": "5GxQNskxQTU263arMnW62WzgQqtgYz2xSondDNKu1AmvroLu",
+    "order_id": "c1db9e87-472a-4515-afd0-792f16d856a5",
+    "event_date": "2026-02-25 21:49:52",
+    "ipfs_cid": "QmTe4C4fFe6ciFzU2uKjdB9oVc1jGupvH7jMaRSTnNQn3e"
+  }
+}
