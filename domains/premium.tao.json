@@ -1,0 +1,24 @@
+{
+  "domain_info": {
+    "domain": "premium.tao",
+    "domain_name": "premium",
+    "created_at": "2026-03-03 12:12:49",
+    "wallet_address": "5GxQNskxQTU263arMnW62WzgQqtgYz2xSondDNKu1AmvroLu",
+    "discount": true,
+    "discount_in_tao": 0.9,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 1
+  },
+  "latest_event": {
+    "domain": "premium.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "is_free": false,
+    "tx_hash": "0x8000ae07615fc3791a6e1012e7a117bd05d645ee7a947e1fd7a878a38f6b38ea",
+    "previous_cid": null,
+    "wallet_address": "5GxQNskxQTU263arMnW62WzgQqtgYz2xSondDNKu1AmvroLu",
+    "order_id": "ab39d6c1-d984-40c9-afe4-c3d9593cbd8b",
+    "event_date": "2026-03-03 12:12:49",
+    "ipfs_cid": "QmS4S9KfZXBaVrgVe7aCe41cKXgWiTAsJRnVgt1SvqXDMN"
+  }
+}
