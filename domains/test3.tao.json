@@ -1,0 +1,24 @@
+{
+  "domain_info": {
+    "domain": "test3.tao",
+    "domain_name": "test3",
+    "created_at": "2026-03-03 10:41:28",
+    "wallet_address": "5DbwpprNkzXLPWxk8XkUAXSBTdkT5PMxi5FCKnr4Z2GsXUzJ",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 1,
+    "cost_in_tao": 1
+  },
+  "latest_event": {
+    "domain": "test3.tao",
+    "event_type": "buy_domain",
+    "price": 1,
+    "is_free": false,
+    "tx_hash": "0x44b65fc67197bcf179b3d9fa7f7bf662f7add0be0f2e7a87774598ed5313e4ad",
+    "previous_cid": null,
+    "wallet_address": "5DbwpprNkzXLPWxk8XkUAXSBTdkT5PMxi5FCKnr4Z2GsXUzJ",
+    "order_id": "c7ee9d3d-53eb-4926-9fc2-c5c310423d9b",
+    "event_date": "2026-03-03 10:41:28",
+    "ipfs_cid": "Qmbu3fFEPtdfLa8qiRZhmhXKq6STPApqj6QqtaD5zo83cJ"
+  }
+}
